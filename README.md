@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @brianos
-- 👀 I’m interested in serverless, AWS, C# and Golang.
 - 🌱 I’m currently learning golang.
 - 📫 briangos@gmail.com
 
